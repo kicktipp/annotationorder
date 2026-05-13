@@ -4,8 +4,6 @@
 
 > Task :test FAILED
 > AspectOrderingTest > asyncAndSpringTransactionalOrdering() FAILED
->    org.opentest4j.AssertionFailedError at AspectOrderingTest.java:37
->
  
 Remove/Comment in build.gradle.kts this line 39
 
